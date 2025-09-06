@@ -3,19 +3,24 @@ YouTube Video Downloader
 
 #### Descrição
 
-Um programa em Python para baixar vídeos do YouTube de forma prática. Utiliza a biblioteca pytube para baixar vídeos em várias resoluções. Interface de linha de comando simples, onde o usuário insere a URL do vídeo e seleciona a qualidade desejada.
-
+Um programa em Python para baixar vídeos do YouTube de forma prática.  
+Utiliza a biblioteca pytube para baixar vídeos em várias resoluções.  
+Interface de linha de comando simples, onde o usuário insere a URL do vídeo e seleciona a qualidade desejada.
+  
+  
 #### Funcionalidades
 
-Baixa vídeos do YouTube em diferentes resoluções.
-Interface de linha de comando intuitiva.
-Suporte a playlists (opcional, com ajustes no código).
-Salva vídeos localmente para acesso offline.
+Baixa vídeos do YouTube em diferentes resoluções.  
+Interface de linha de comando intuitiva.  
+Suporte a playlists (opcional, com ajustes no código).  
+Salva vídeos localmente para acesso offline.  
 
+```
 youtubedownloader.py -> obtém a melhor resolução com áudio incluso
 youtubedownloader2.py -> lista as resoluções existentes e obtém a indicada pelo usuário
 youtube_video_mais_audio.py -> obtém a melhor resolução de vídeo e a melhor de áudio
 video_audio/junta_video_audio.bat "nome_arquivo" (sem _video.mp4 ou _audio.mp4 no final) -> junta os dois arquivos criando a versão full
+```
 
 #### Requisitos
 
