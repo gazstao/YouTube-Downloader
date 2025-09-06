@@ -24,9 +24,10 @@ video_audio/junta_video_audio.bat "nome_arquivo" (sem _video.mp4 ou _audio.mp4 n
 
 #### Requisitos
 
-Python 3.6+
-Biblioteca pytube (pip install pytube)
-ffmpeg para juntar vídeo e áudio caso deseje a melhor resolução possível
+Python 3.6+  
+Biblioteca pytube (pip install pytube)  
+ffmpeg para juntar vídeo e áudio caso deseje a melhor resolução possível  
+  
 
 #### Instalação
 
@@ -36,15 +37,18 @@ Execute o programa: python downloader.py
 
 #### Uso
 
-Execute o script.
-Insira a URL do vídeo do YouTube quando solicitado.
-Escolha a resolução desejada entre as opções disponíveis.
-O vídeo será salvo na pasta local.
+Execute o script.  
+Insira a URL do vídeo do YouTube quando solicitado.  
+Escolha a resolução desejada entre as opções disponíveis.  
+O vídeo será salvo na pasta local.  
+  
 
 #### Exemplo
+```
 python youtubedownloader.py
 URL do vídeo: https://www.youtube.com/watch?v=example
 Download concluído!
+```
 
 #### Notas
 Verifique a legalidade do download de vídeos na sua região.
