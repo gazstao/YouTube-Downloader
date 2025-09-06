@@ -1,0 +1,1 @@
+ffmpeg -i %1_video.mp4 -i %1_audio.mp4 -c:v copy -c:a aac -strict experimental %1_full.mp4
