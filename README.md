@@ -31,9 +31,9 @@ ffmpeg para juntar vídeo e áudio caso deseje a melhor resolução possível
 
 #### Instalação
 
-Clone o repositório: git clone https://github.com/gazstao/YouTube-Downloader
-Instale a dependência: pip install pytube
-Execute o programa: python downloader.py
+Clone o repositório: git clone https://github.com/gazstao/YouTube-Downloader  
+Instale a dependência: pip install pytube  
+Execute o programa: python downloader.py  
 
 #### Uso
 
@@ -51,8 +51,8 @@ Download concluído!
 ```
 
 #### Notas
-Verifique a legalidade do download de vídeos na sua região.
-Certifique-se de ter uma conexão estável com a internet.
+Verifique a legalidade do download de vídeos na sua região.  
+Certifique-se de ter uma conexão estável com a internet.  
 
 #### Licença
 GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007
